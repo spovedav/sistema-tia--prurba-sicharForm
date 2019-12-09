@@ -1,0 +1,62 @@
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\bin\Debug\Tia.exe.config
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\bin\Debug\Tia.exe
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\bin\Debug\Tia.pdb
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.csprojResolveAssemblyReference.cache
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.Form1.resources
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.Properties.Resources.resources
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.csproj.GenerateResource.Cache
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.exe
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.pdb
+c:\users\poveda\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.RecuPass.resources
+C:\Users\POVEDA\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.Principal.resources
+C:\Users\POVEDA\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.Cargos.resources
+C:\Users\POVEDA\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.PanelControl.resources
+C:\Users\POVEDA\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.Productos.resources
+C:\Users\POVEDA\documents\visual studio 2012\Projects\Tia\Tia\obj\Debug\Tia.BaseDeDato.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\bin\Debug\Tia.exe.config
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.exe
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.pdb
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\bin\Debug\Tia.exe
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\bin\Debug\Tia.pdb
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.csprojResolveAssemblyReference.cache
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.BaseDeDato.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.Cargos.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.Form1.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.PanelControl.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.Principal.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.Productos.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.Properties.Resources.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.RecuPass.resources
+C:\Users\POVEDA\Documents\Visual Studio 2012\Projects\Nueva carpeta\Tia\Tia\Tia\obj\Debug\Tia.csproj.GenerateResource.Cache
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\bin\Debug\Tia.exe.config
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\bin\Debug\Tia.exe
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\bin\Debug\Tia.pdb
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.Cargos.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.PanelControl.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.Productos.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.Properties.Resources.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.RecuPass.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.csproj.GenerateResource.cache
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.csproj.CoreCompileInputs.cache
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.exe
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.pdb
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.INICIO.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.VENDER.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.Eliminar_Producto.resources
+C:\Users\spovedav96\Documents\Tia\Tia\Tia\obj\Debug\Tia.csprojAssemblyReference.cache
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\bin\Debug\Tia.exe.config
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\bin\Debug\Tia.exe
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\bin\Debug\Tia.pdb
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.csprojAssemblyReference.cache
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.Cargos.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.Eliminar_Producto.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.INICIO.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.PanelControl.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.VENDER.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.Productos.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.Properties.Resources.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.RecuPass.resources
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.csproj.GenerateResource.cache
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.csproj.CoreCompileInputs.cache
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.exe
+C:\Users\spovedav96\Desktop\Tia\Tia\Tia\obj\Debug\Tia.pdb
